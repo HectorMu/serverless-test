@@ -10,6 +10,17 @@
       "StackName": "amplify-serverlesstest-dev-104621",
       "StackId": "arn:aws:cloudformation:us-east-1:857067256181:stack/amplify-serverlesstest-dev-104621/55964f80-82e1-11ed-ad0a-0ed0bfc76125",
       "AmplifyAppId": "d212yru813x8bi"
+    },
+    "categories": {
+      "function": {
+        "Hola": {
+          "deploymentBucketName": "amplify-serverlesstest-dev-104621-deployment",
+          "s3Key": "amplify-builds/Hola-6a6e657a32457267754a-build.zip"
+        }
+      },
+      "api": {
+        "hola": {}
+      }
     }
   }
 }

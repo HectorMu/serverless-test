@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/": {
+      "name": "/",
+      "lambdaFunction": "Hola",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
